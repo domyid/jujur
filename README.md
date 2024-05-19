@@ -1,9 +1,19 @@
-# jujur
+# Jujur itu Hebat !!!
 Merupakan satu satunya metode komunikasi efektif dan efisien. Ada hal menarik selama mengunjungi timeline LinkedIn:  
 ![WhatsApp Image 2024-05-18 at 18 45 14_a28d9647](https://github.com/domyid/jujur/assets/11188109/1a5f0b35-3d38-4cbb-8738-7eed0e49a968)  
 
-# Semar Framework
+## Semar Framework
 Dalam komunikasi kali ini menggunakan kerangka Semar:
-1. tugas SElesai ceritakan dahulu
-2. Masalah yang didapat di komunikasikan
-3. Rencana tugas ke depan
+1. SElesai tugas, langsung laporkan.
+2. Masalah yang ada segera di komunikasikan.
+3. Rencana tugas yang akan di keerjakan dicatat dan dipresentasikan.
+
+
+## Contoh komunikasi yang tidak efektif
+Beberapa istilah yang sering dipake, bisa menyebabkan multi tafsir. Ga perlu kaget sih kalo baru jadian:
+
+1. Bingung: tolong detailkan task nya untuk saya, karena saya masih baru cuy belum paham.
+2. Terserah: saya mau mutasi atau resign dah bosen disini mulu, tapi mau dapet gajinya doang.
+3. Sok aja: bodo amat, gw gabut.
+4. Bebas: pekerjaan seberat apapun saya mampu kok.
+5. Bisa aja: ga yakin sih ini bisa di kerjain.
