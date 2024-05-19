@@ -6,7 +6,7 @@ Merupakan satu satunya metode komunikasi efektif dan efisien. Ada hal menarik se
 Dalam komunikasi kali ini menggunakan kerangka Semar:
 1. SElesai tugas, langsung laporkan.
 2. Masalah yang ada segera di komunikasikan.
-3. Rencana tugas yang akan di keerjakan dicatat dan dipresentasikan.
+3. Rencana tugas yang akan di keerjakan catat, komunikasikan,dan minta masukan.
 
 
 ## Contoh komunikasi yang tidak efektif
