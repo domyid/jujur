@@ -5,7 +5,7 @@ Merupakan satu satunya metode komunikasi efektif dan efisien. Ada hal menarik se
 ## Semar Framework
 Dalam komunikasi kali ini menggunakan kerangka Semar:
 1. SElesai tugas, langsung laporkan.
-2. Masalah yang ada segera di komunikasikan.
+2. Masalah di tugas saat ini segera di komunikasikan.
 3. Rencana tugas yang akan di kerjakan catat, komunikasikan,dan minta masukan.
 
 
