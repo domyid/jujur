@@ -6,6 +6,7 @@ Masukin dulu bot myika(62895601060000) di group tersebut kemudian panggil mika u
 
 Masukkan grup id tersebut ketika membuat project di dashboard.
 
+## Komunikasi itu penting
 Merupakan satu satunya metode komunikasi efektif dan efisien. Ada hal menarik selama mengunjungi timeline LinkedIn:  
 ![WhatsApp Image 2024-05-18 at 18 45 14_a28d9647](https://github.com/domyid/jujur/assets/11188109/1a5f0b35-3d38-4cbb-8738-7eed0e49a968)  
 
