@@ -1,4 +1,11 @@
-# Jujur itu Hebat !!!
+# Buat Group WA dulu
+
+![image](https://github.com/user-attachments/assets/9e12d3cf-b74b-49b5-90fa-64c66bfb56d5)  
+Yang harus kamu lakukan adalah buat dahulu grup wa bersama-sama dengan satu tim project termasuk leader dan atau pembimbing atau pengawas.
+Masukin dulu bot myika(62895601060000) di group tersebut kemudian panggil mika untuk mengeluarkan grup id dengan pesan: myika minta grup id
+
+Masukkan grup id tersebut ketika membuat project di dashboard.
+
 Merupakan satu satunya metode komunikasi efektif dan efisien. Ada hal menarik selama mengunjungi timeline LinkedIn:  
 ![WhatsApp Image 2024-05-18 at 18 45 14_a28d9647](https://github.com/domyid/jujur/assets/11188109/1a5f0b35-3d38-4cbb-8738-7eed0e49a968)  
 
