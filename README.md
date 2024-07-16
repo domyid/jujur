@@ -4,7 +4,7 @@
 Yang harus kamu lakukan adalah buat dahulu grup wa bersama-sama dengan satu tim project termasuk leader dan atau pembimbing atau pengawas.
 Masukin dulu bot myika(62895601060000) di group tersebut kemudian panggil mika untuk mengeluarkan grup id dengan pesan: myika minta grup id
 
-Masukkan grup id tersebut ketika membuat project di dashboard.
+Masukkan grup id tersebut ketika membuat project di dashboard. Kemudian masukkan juga semua member anggota group yang mengerjakan project ini, termasuk nomor kamu sendiri(kecuali kamu project owner tidak ikut mengerjakan).
 
 ## Komunikasi itu penting
 Merupakan satu satunya metode komunikasi efektif dan efisien. Ada hal menarik selama mengunjungi timeline LinkedIn:  
