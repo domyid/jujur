@@ -1,7 +1,7 @@
 # Buat Group WA dulu
 
 ![image](https://github.com/user-attachments/assets/9e12d3cf-b74b-49b5-90fa-64c66bfb56d5)  
-Yang harus kamu lakukan adalah buat dahulu grup wa bersama-sama dengan satu tim project termasuk leader dan atau pembimbing atau pengawas.
+Yang harus kamu lakukan adalah kamu sudah ada grup wa bersama-sama dengan satu tim project termasuk leader dan atau pembimbing atau pengawas.
 Masukin dulu bot myika(62895601060000) di group tersebut kemudian panggil mika untuk mengeluarkan grup id dengan pesan: myika minta grup id
 
 Masukkan grup id tersebut ketika membuat project di dashboard. Kemudian masukkan juga semua member anggota group yang mengerjakan project ini, termasuk nomor kamu sendiri(kecuali kamu project owner tidak ikut mengerjakan).
